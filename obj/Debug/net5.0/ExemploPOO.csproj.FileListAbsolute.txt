@@ -1,0 +1,16 @@
+G:\Meu Drive\DIO\git\AvanadePOOcomC#\ExemploPOO\obj\Debug\net5.0\ExemploPOO.csproj.AssemblyReference.cache
+G:\Meu Drive\DIO\git\AvanadePOOcomC#\ExemploPOO\obj\Debug\net5.0\ExemploPOO.GeneratedMSBuildEditorConfig.editorconfig
+G:\Meu Drive\DIO\git\AvanadePOOcomC#\ExemploPOO\obj\Debug\net5.0\ExemploPOO.AssemblyInfoInputs.cache
+G:\Meu Drive\DIO\git\AvanadePOOcomC#\ExemploPOO\obj\Debug\net5.0\ExemploPOO.AssemblyInfo.cs
+G:\Meu Drive\DIO\git\AvanadePOOcomC#\ExemploPOO\obj\Debug\net5.0\ExemploPOO.csproj.CoreCompileInputs.cache
+G:\Meu Drive\DIO\git\AvanadePOOcomC#\ExemploPOO\bin\Debug\net5.0\ExemploPOO.exe
+G:\Meu Drive\DIO\git\AvanadePOOcomC#\ExemploPOO\bin\Debug\net5.0\ExemploPOO.deps.json
+G:\Meu Drive\DIO\git\AvanadePOOcomC#\ExemploPOO\bin\Debug\net5.0\ExemploPOO.runtimeconfig.json
+G:\Meu Drive\DIO\git\AvanadePOOcomC#\ExemploPOO\bin\Debug\net5.0\ExemploPOO.runtimeconfig.dev.json
+G:\Meu Drive\DIO\git\AvanadePOOcomC#\ExemploPOO\bin\Debug\net5.0\ExemploPOO.dll
+G:\Meu Drive\DIO\git\AvanadePOOcomC#\ExemploPOO\bin\Debug\net5.0\ref\ExemploPOO.dll
+G:\Meu Drive\DIO\git\AvanadePOOcomC#\ExemploPOO\bin\Debug\net5.0\ExemploPOO.pdb
+G:\Meu Drive\DIO\git\AvanadePOOcomC#\ExemploPOO\obj\Debug\net5.0\ExemploPOO.dll
+G:\Meu Drive\DIO\git\AvanadePOOcomC#\ExemploPOO\obj\Debug\net5.0\ref\ExemploPOO.dll
+G:\Meu Drive\DIO\git\AvanadePOOcomC#\ExemploPOO\obj\Debug\net5.0\ExemploPOO.pdb
+G:\Meu Drive\DIO\git\AvanadePOOcomC#\ExemploPOO\obj\Debug\net5.0\ExemploPOO.genruntimeconfig.cache
